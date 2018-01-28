@@ -4,7 +4,10 @@
 	2. Remove all extra characters from MESSAGE.
 	3. Remove all repeated characters from KEY. 
 	4. Capitalize MESSAGE and KEY.
-	5. Make 5-by-5 matrix which contains alphabets and in this matrix I and J are at same position in it. This matrix will make from KEY and alphabets where KEY lies in start of matrix(in rows).
+	5. Make 5-by-5 matrix which contains alphabets and in this
+	matrix I and J are at same position in it. This matrix will
+	make from KEY and alphabets where KEY lies in start of matrix
+	in rows).
 	6. Make paired-alphabet array of MESSAGE.
 	7. Now encrpyt the MESSAGE according to matrix in such way;
 
