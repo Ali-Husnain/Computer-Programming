@@ -12,5 +12,5 @@
 		-> If first and second alphabet are in same row then 	   change alphabet to next one.
 		-> If first and second are same alphabets then change	   alphabets to next one(for first) and the other next one	 (for second) in row.
 		-> If length of MESSAGE is odd then make it even.
-		
+
 	8. Print Cipher text.
