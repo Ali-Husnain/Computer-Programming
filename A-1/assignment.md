@@ -1,4 +1,4 @@
-# Cipher-Text
+# Encrpytion
 # Requirements:
 	1. Take inputs MESSAGE and KEY from user.
 	2. Remove all extra characters from MESSAGE.
